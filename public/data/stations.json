@@ -1,0 +1,60 @@
+{
+  "Barranquilla": [
+    {
+      "id": 1,
+      "name": "PDS Estación Calle 84",
+      "industrial": "Com. Industrial",
+      "numContrato": "SC-22-023",
+      "progress": 68,
+      "isActive": true,
+      "city": "Barranquilla"
+    },
+    {
+      "id": 2,
+      "name": "PDS Estación Calle 30",
+      "industrial": "Com. Industrial",
+      "numContrato": "SC-22-023",
+      "progress": 68,
+      "isActive": true,
+      "city": "Barranquilla"
+    },
+    {
+      "id": 3,
+      "name": "PDS Estación Brisas del Mar",
+      "industrial": "Com. Industrial",
+      "numContrato": "SC-22-023",
+      "progress": 68,
+      "isActive": true,
+      "city": "Barranquilla"
+    }
+  ],
+  "Santa Marta": [
+    {
+      "id": 4,
+      "name": "PDS Estación Avenida del Rio",
+      "industrial": "Com. Industrial",
+      "numContrato": "SC-22-023",
+      "progress": 68,
+      "isActive": true,
+      "city": "SantaMarta"
+    },
+    {
+      "id": 5,
+      "name": "PDS Estación Centro",
+      "industrial": "Com. Industrial",
+      "numContrato": "SC-22-023",
+      "progress": 68,
+      "isActive": true,
+      "city": "SantaMarta"
+    },
+    {
+      "id": 6,
+      "name": "PDS Estación Taganga",
+      "industrial": "Com. Industrial",
+      "numContrato": "SC-22-023",
+      "progress": 68,
+      "isActive": true,
+      "city": "SantaMarta"
+    }
+  ]
+}
